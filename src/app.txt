@@ -1,0 +1,113 @@
+const productsObj = [
+	{
+		imgSrc: "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f",
+		imgAlt: "product 1",
+		title: "Product1",
+		description: "THIS IS A SAMPLE TEXT. THIS IS A SAMPLE TEXT.",
+		id: "0",
+		reviews: [
+			{
+				id: "0",
+				author: "Enea",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 4,
+			},
+			{
+				id: "1",
+				author: "Daniel",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 5,
+			},
+			{
+				id: "2",
+				author: "Jason",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 3,
+			},
+			{
+				id: "3",
+				author: "James",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 1,
+			},
+		],
+	},
+	{
+		imgSrc: "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+		imgAlt: "product 2",
+		title: "Product2",
+		description: "THIS IS A SAMPLE TEXT. THIS IS A SAMPLE TEXT.",
+		id: "1",
+		reviews: [
+			{
+				id: "0",
+				author: "Enea",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 3,
+			},
+			{
+				id: "1",
+				author: "Daniel",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 2,
+			},
+			{
+				id: "2",
+				author: "Jason",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 1,
+			},
+			{
+				id: "3",
+				author: "James",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 1,
+			},
+		],
+	},
+	{
+		imgSrc: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+		imgAlt: "product 3",
+		title: "Product3",
+		description: "THIS IS A SAMPLE TEXT. THIS IS A SAMPLE TEXT.",
+		id: "2",
+		reviews: [
+			{
+				id: "0",
+				author: "Enea",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 5,
+			},
+			{
+				id: "1",
+				author: "Daniel",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 5,
+			},
+			{
+				id: "2",
+				author: "Jason",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 5,
+			},
+			{
+				id: "3",
+				author: "James",
+				comment:
+					"We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.",
+				rating: 5,
+			},
+		],
+	},
+];
